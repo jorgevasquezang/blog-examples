@@ -1,0 +1,10 @@
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"argentina","code":"AR","name":"Argentina"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"bolivia","code":"BO","name":"Bolivia"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"chile","code":"CL","name":"Chile"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"colombia","code":"CO","name":"Colombia"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"costarica","code":"CR","name":"Costa Rica"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"ecuador","code":"EC","name":"Ecuador"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"paraguay","code":"PY","name":"Paraguay"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"peru","code":"PE","name":"Peru"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"uruguay","code":"UY","name":"Uruguay"}
+{"_class":"com.newsnetwork.persistence.model.Country","_id":"venezuela","code":"VE","name":"Venezuela"}

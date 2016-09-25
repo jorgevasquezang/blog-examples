@@ -28,23 +28,12 @@ public class SpringMongoConfig {
     }
 
     private String getConnectionUri() {
-
-        String dbConnectionDataProperty = "";
-
-
-        StringBuilder uriConnectionBuilder = new StringBuilder();
-
-        uriConnectionBuilder.append(dbConnectionDataProperty)
-                .append("mongodbName")
-                .append("?")
-                .append("maxPoolSize_option");
-        return uriConnectionBuilder.toString();
+        return "mongodb://localhost:27017/test";
     }
 
     public
     @Bean
     MongoTemplate mongoTemplate() throws Exception {
-
         return new MongoTemplate(simpleMongoDbFactory());
     }
 }
